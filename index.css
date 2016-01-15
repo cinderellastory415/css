@@ -1,0 +1,89 @@
+
+.index_banner{}
+.content .banner{background: url(../images/index_banner.jpg) no-repeat center #2cd0f4; margin:0px auto;min-width:999px;}
+.content .banner .join{ position: relative;height: 520px;width:999px; margin:0px auto;}
+.content .banner .join a{ position: absolute; top:315px; width: 165px; height: 48px;  display: block; right: 0; margin-right: 15px;}
+
+.content .main{}
+
+.content .main .adv1{ width:999px; margin:0px auto;height:255px; background: #fff;}
+.content .main .adv1 .adv1_list{ height: 350px; }
+.content .main .adv1 .adv1_list .adv_title{font-size: 28px; color: #9fa0a0; text-align: center; padding-top: 25px;}
+.content .main .adv1 .adv1_step{width:880px;height: 180px;margin: 25px auto;}
+.content .main .adv1 .adv1_step li{float: left ;width: 220px; cursor: pointer; border: 0px solid blue;height: 150px; width: 150px;margin-left:35px; margin-right:35px;}
+.content .main .adv1 .adv1_step li .adv_text{text-align: center; font-size: 24px; color: #838383; font-family: "微软雅黑"; margin-top: 120px;}
+
+.icon_01{ background: url(../images/operation_icon.jpg) no-repeat top center;height: 102px; width: 102px;}
+.icon_02{ background: url(../images/expand_icon.jpg) no-repeat top center; height: 102px; width: 102px;}
+.icon_03{ background: url(../images/knockdown_icon.jpg) no-repeat top center; height: 102px; width: 102px;}
+.icon_04{ background: url(../images/service_icon.jpg) no-repeat top center; height: 102px; width: 102px;}
+
+.content .main .adv1 .adv1_step .icon_01_current{ background: url(../images/operation_icon_current.jpg) no-repeat top center;}
+.content .main .adv1 .adv1_step .icon_02_current{ background: url(../images/expand_icon_current.jpg) no-repeat top center;}
+.content .main .adv1 .adv1_step .icon_03_current{ background: url(../images/knockdown_icon_current.jpg) no-repeat top center;}
+.content .main .adv1 .adv1_step .icon_04_current{ background: url(../images/service_icon_current.jpg) no-repeat top center;}
+.content .main .adv1 .adv1_step li.current .adv_text{color: #2cd0f4;text-align: center; font-size: 24px;margin-top: 120px;}
+
+.content .main .adv2_container{background:#efefef;height: 510px;min-width:999px;}
+.content .main .adv2_container .adv2{width: 999px;margin: 0px auto;}
+.content .main .adv2_container .adv2 li{ display: none;height: 510px;}
+.content .main .adv2_container .adv2 li.current{ display: block; }
+.content .main .adv2_container .adv2 li.operation{background: url(../images/operation_logo.jpg) no-repeat center center;}
+.content .main .adv2_container .adv2 li.expand{ background: url(../images/expand_logo.jpg) no-repeat center center; }
+.content .main .adv2_container .adv2 li.knockdowns{background: url(../images/knockdown_logo.jpg) no-repeat center center;}
+.content .main .adv2_container .adv2 li.ervice{ background: url(../images/service_logo.jpg) no-repeat center center;}
+
+
+.content .main .adv3_container{min-width:999px;  background: #5de3cb; background: linear-gradient(#2ddbd1, #80e9c8);}
+.content .main .adv3_container .adv3{ width: 999px; height: 535px; margin: 0px auto; background: url(../images/mbaoxiu.jpg) no-repeat center bottom;}
+.content .main .adv3_container .adv3 .four_title{ text-align: center; font-size: 46px; color: #fff; font-family: "Impact";letter-spacing:2px; padding-top: 50px;}
+.content .main .adv3_container .adv3 .text{color: #079086; font-size: 40px; margin-top:10px;text-align: center; font-weight: bold; letter-spacing: 15px;}
+.content .main .adv3_container .adv3 .text .att{color: #fff;font-size: 40px;}
+.content .main .adv3_container .adv3 .text2{text-align: center; color: #079086; font-size: 18px; margin-top: 10px;}
+.content .main .adv3_container .adv3 .button{text-align: center; margin-top: 14px;}
+.content .main .adv3_container .adv3 .button .btn1{ margin-right: 30px;}
+
+.content .main .adv4_container{ background: #2cd0f4; min-width:999px;}
+.content .main .adv4_container .adv4{ margin:0px auto; width: 999px;height: 1330px;border:0px solid #0f0;}
+.content .main .adv4_container .adv4 .five_title{ height: 200px;}
+.content .main .adv4_container .adv4 .five_title .trigon{ border: 160px solid transparent;border-top-color: #fff; height: 0; width: 0;  margin: 0px auto; text-align: center;
+	                                      border-top-width: 180px;
+	                                      border-left-width: 300px; 
+	                                      border-right-width: 300px; 
+	                                      border-bottom-width: 0px;}
+
+.content .main .adv4_container .adv4 .five_title .trigon .text{ width: 200px; height: 30px; margin-left: -100px; margin-top: -150px; font-size: 36px; color: #2cd0f4; border-top: 2px solid #2cd0f4; padding-top: 20px; }
+
+.content .main .adv4_container .adv4 .system_title{ text-align: center; font-size: 36px; color: #fff; height: 50px;margin-top:15px;}
+.content .main .adv4_container .adv4 .system{height: 410px; margin-top:30px; border: 0px solid red;}
+.content .main .adv4_container .adv4 .system .system_list{width: 240px; float: left; margin-left: 4px;margin-right: 4px;}
+
+.content .main .adv4_container .adv4 .poster_title{ text-align: center; font-size: 36px; color: #fff; height: 50px;margin-top:45px;}
+.content .main .adv4_container .adv4 .poster{ height: 410px;margin-top:30px;}
+.content .main .adv4_container .adv4 .poster div{ width: 240px; height: 408px;float: left; margin-left: 4px;margin-right: 4px;}
+
+.icon01{background: url(../images/poster_icon01.jpg) no-repeat;}
+.icon02{background: url(../images/poster_icon02.jpg) no-repeat;}
+.icon03{background: url(../images/poster_icon03.jpg) no-repeat;}
+.icon04{background: url(../images/poster_icon04.jpg) no-repeat;}
+.icon01:hover{ background: url(../images/poster_icon01.png) no-repeat center center #fff;}
+.icon02:hover{ background: url(../images/poster_icon02.png) no-repeat center center #fff;}
+.icon03:hover{ background: url(../images/poster_icon03.png) no-repeat center center #fff;}
+.icon04:hover{ background: url(../images/poster_icon04.png) no-repeat center center #fff;}
+.content .footer{ min-width:999px;}
+.content .footer .center{ width: 999px;margin: 0px auto;}
+.content .footer .center .link{border: 0px solid red;}
+.content .footer .center .link .title{ float: left; color: #df317c;font-size: 24px; width: 174px; margin-top: 50px;padding-left:15px;}
+.content .footer .center .link .link_item{ width: 810px; float: left; margin: 45px auto;}
+.content .footer .center .link .link_item .item_list{float: left; margin-right: 15px; margin-top: 8px;}
+.content .footer .center .link .link_item .item_list a{color: #000; font-size: 14px; font-family: "微软雅黑"; }
+
+.content .footer .center .contact{background: #d78aff;border: 0px solid red;}
+.content .footer .center .contact .title{ float: left; color: #df317c; font-size: 24px; width: 174px; padding-left:15px;margin-top: 50px;}
+.content .footer .center .contact .contact_item{ width: 562px; float: left; margin: 30px auto;}
+.content .footer .center .contact .contact_item .contact_list{margin-right: 15px; margin-top: 8px; font-size: 14px;}
+
+
+.content .footer .center .contact .code{float: right; margin-top: 20px;}
+
+.content .footer .center .cp{ font-size:12px; color: #838383; text-align: center; height: 66px; line-height: 66px; border-top: 1px solid #99999a;}
